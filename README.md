@@ -9,6 +9,6 @@ Landing page for the sale of sound articles.
 
 ### Visita el proyecto.
 
-[Visita el proyecto](https://firestore.com)
+[Visita el proyecto](https://miguelpl32.github.io/TechPRO/)https://miguelpl32.github.io/TechPRO/)
 
 ![](TechPRO.jpg)
